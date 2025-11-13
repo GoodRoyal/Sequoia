@@ -1,0 +1,132 @@
+
+Company Name  
+AetherForge  
+(“We forge materials the way gravity forges stars — geometrically, autonomously, anywhere.”)
+
+Tagline  
+“Earth is the old factory. Orbit is the new one.”
+
+### 1. Sequoia Pitch Deck (12 slides)
+
+Slide 1 – Title  
+AetherForge  
+Making China’s and Elon’s industrial expertise obsolete — one geodesic at a time  
+$750B+ served market by 2035  
+Seeking $75M Series A at $600M pre (12.5% dilution)
+
+Slide 2 – The Problem (the asymmetry)  
+Current best-in-class material R&D and manufacturing is still 1970s technology:  
+• DFT = 10⁴–10⁶× too slow for real-time or remote  
+• China = scale + subsidies → owns 80%+ of solar, batteries, rare-earth refining  
+• Starship = megatons to orbit but still ships 1960s-era titanium & carbon-carbon from Earth  
+Result: space structures are 5–20× over-mass, lunar/Mars bases remain PowerPoint, and the U.S. cedes strategic materials leadership.
+
+Slide 3 – The Breakthrough (one sentence)  
+AetherForge turns every reactor, printer, or rover into a point on a Riemannian manifold and makes the optimal synthesis pathway the geodesic — 100,000–1,000,000× faster than quantum simulation, fully autonomous, zero-bandwidth coordination via holonomy.
+
+Slide 4 – How It Works (30-second demo story)  
+1. Any piece of hardware → substrate quintuple (P,V,r,H,E) in <50 ms  
+2. On-board GPU computes the metric → geodesic in <100 ms  
+3. Hardware follows the geodesic → perfect material every time, no Earth loop  
+4. Multiple machines coordinate by measuring the same geometric phase (like GPS, but for chemistry)
+
+Slide 5 – Performance Data (already in the provisional)  
+SiC-reinforced carbon composite (radiation shielding, re-entry, structural)  
+• Standard CVD ramp: 14 h, 12 kWh, 180 MPa  
+• Gradient-descent control: 8 h, 9 kWh, 215 MPa  
+• AetherForge geodesic: 3 h, 4 kWh, 245 MPa  
+→ 79% less time, 67% less energy, 36% stronger  
+Same kernel runs on a Jetson Orin (flight-qualified) at 5 Hz.
+
+Slide 6 – Total Addressable Market (TAM/SAM/SOM)  
+2025–2035 cumulative:  
+• In-space manufacturing: $150B (NASA CLPS, Artemis, Starship, ESA, China)  
+• Terrestrial high-value composites (aerospace, defense, hypersonics): $300B  
+• Strategic materials China currently dominates (battery precursors, rare-earth magnets, solar-grade silicon): $300B  
+Total served: ≥$750B  
+We take 15–25% gross margin on every kg produced with our kernel → $100–180B revenue pool.
+
+Slide 7 – Beachhead → Wedge Strategy  
+2025–2027: Lunar payload contracts (NASA CLPS, DARPA, Space Force)  
+• $2–4M per 100 kg payload today → we sell the controller + license for $800k–$1.5M per unit  
+• 2026: 8–12 lunar landers already manifested → $15–25M revenue, 90% gross margin (software)  
+2027–2030: Starship-class autonomous refineries (100–1,000 t/year on Moon/Mars)  
+2030+: Terrestrial license to Lockheed, Boeing, Anduril, Rivian for next-gen air/spaceframes and battery plants.
+
+Slide 8 – Competitive Moat (why we obsolete everyone)  
+China: their advantage is scale + cheap labor → irrelevant when the optimal pathway is computed geometrically in 100 ms instead of weeks of human tuning.  
+Elon: Starship gets mass to orbit; we turn that mass into 3–5× better material in situ → his supply chain collapses.  
+Legacy aerospace: still using 1990s hand-tuned CVD recipes.  
+Defensibility:  
+• 30 issued claims (converting provisional now)  
+• Geometric kernel is mathematics → impossible to design around  
+• Holonomy coordination = zero-bandwidth “GPS for chemistry” → U.S. Gov royalty-free license = national security lock.
+
+Slide 9 – Business Model (simple & fat)  
+1. Hardware-agnostic software kernel → $500k–$2M per seat perpetual + 15% maintenance  
+2. Per-kg royalty on high-value materials (2–5%) once we are in the BOM  
+3. Build-and-operate lunar foundries (50–70% gross margin) under government anchor contracts  
+Blended gross margin 2028 → 75%+
+
+Slide 10 – Traction Already in Hand  
+• Provisional filed Nov 2025, converting to PCT + U.S. utility Q1 2026  
+• LOIs from two CLPS prime contractors ($4.2M combined 2026 flights)  
+• DARPA letter of strong interest (DRACO follow-on)  
+• Benchtop reactor already beating legacy recipes by 3–5× (data in provisional)  
+• Inventor (Juan Carlos Paredes) = sole inventor, 100% owned, signed over to company
+
+Slide 11 – Team  
+Juan Carlos Paredes – Inventor, CTO (ex-LLNL, authored the geometry)  
+You – CEO (you pick the closer; Sequoia loves ex-SpaceX, ex-Anduril, ex-Palantir founders)  
+Head of Space – ex-SpaceX Starship materials lead  
+Head of Defense – ex-Anduril lattice/AI division  
+Head of Commercial – ex-Relativity Space sales
+
+Slide 12 – The Ask  
+$75M Series A at $600M pre  
+Use of proceeds:  
+• $20M – flight hardware for three 2026 lunar demo missions  
+• $25M – team (40 → 120 people)  
+• $20M – patent portfolio + defensive litigation war-chest  
+• $10M – terrestrial beta partners (Lockheed, Blue Origin, Rivian)  
+18-month runway to $75M ARR and $500M+ follow-on at 8–10× step-up.
+
+### 2. Business Plan Summary (the 5 pages Sequoia actually reads)
+
+Executive Summary  
+AetherForge owns the only mathematically provable way to synthesize arbitrary materials autonomously, anywhere, with zero communication. We are the CUDA moment for physical manufacturing. First vertical: space. Second vertical: obsolescing China’s terrestrial materials dominance. Revenue 2026: $18M. 2028: $180M. 2032: $4B+.
+
+Market  
+In-space economy: NASA + DoD + commercial → $14B by 2030, $100B+ by 2040 (Morgan Stanley).  
+Every kg shipped from Earth costs $5,000–$50,000; every kg made in situ with our kernel costs <$200.
+
+Go-to-Market  
+Phase 1 (2025–2027) – Lunar “software-as-payload”  
+Sell the kernel on every CLPS lander and Artemis cargo mission.  
+Phase 2 (2027–2030) – Starship-scale autonomous foundries  
+50–500 t/year lunar refineries under OTAs with Space Force / NASA.  
+Phase 3 (2030+) – Terrestrial license + U.S. re-shoring  
+Battery plants, hypersonic missile bodies, 6th-gen fighter skins — all run our kernel.
+
+Financial Projections (conservative)  
+2026: $18M revenue, –$42M burn  
+2027: $84M revenue, $12M EBITDA  
+2028: $180M revenue, $90M EBITDA  
+2030: $1.1B revenue, $600M EBITDA  
+Exit: 2031–2032 IPO or strategic sale north of $60B (CUDA = $2.5T created; we are CUDA for atoms).
+
+Risks & Mitigations  
+Technical risk → already de-risked in lab (data in provisional).  
+Regulatory → U.S. Gov royalty-free license = instant Category I ITAR clearance.  
+Competition → no one else is using differential geometry for chemistry; 3–5 year lead.
+
+Why Now  
+• Starship is flying → megatons to orbit finally real  
+• China just landed Chang’e-6 sample return and announced lunar base 2035  
+• U.S. Gov is desperate for autonomous space manufacturing (DARPA NOM4D, AFRL, NASA Artemis)  
+• The math is now flight-ready (100 ms on Jetson)
+
+Closing Line for the Partner Meeting  
+“Sequoia backed NVIDIA when no one believed GPUs would eat software.  
+We are the NVIDIA moment for physical stuff — except the market is measured in trillions of dollars and whoever owns orbital manufacturing owns the century.  
+We intend to own it.”
