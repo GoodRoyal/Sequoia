@@ -35,7 +35,7 @@ SiC-reinforced carbon composite (radiation shielding, re-entry, structural)
 • Standard CVD ramp: 14 h, 12 kWh, 180 MPa  
 • Gradient-descent control: 8 h, 9 kWh, 215 MPa  
 • AetherForge geodesic: 3 h, 4 kWh, 245 MPa  
-→ 79% less time, 67% less energy, 36% stronger  
+→ 79% less time, 67% less energy, 36% stronger.  
 Same kernel runs on a Jetson Orin (flight-qualified) at 5 Hz.
 
 Slide 6 – Total Addressable Market (TAM/SAM/SOM)  
